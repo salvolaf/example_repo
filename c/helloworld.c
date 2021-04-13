@@ -1,3 +1,5 @@
+/* Hello Wordl esempio in C */
+
 #include <stdio.h>
 
 int main() {
